@@ -1,3 +1,4 @@
+#Requires tkinter library
 import tkinter as tk
 
 class TableApp(tk.Tk):

@@ -20,7 +20,7 @@ This Python application built with Tkinter enables users to compute Spearman's r
 
 Spearman's rank correlation coefficient (ρ) is calculated using the following formula:
 
-![Spearman's Rank Formula](https://www.dataanalytics.org.uk/spearman-rank-correlation-in-excel/)
+![Spearman's Rank Formula](https://www.dataanalytics.org.uk/spearman-rank-correlation-in-excel/spearman-formula.png)
 
 For a detailed explanation and examples of Spearman's rank correlation in Excel, refer to [Data Analytics](https://www.dataanalytics.org.uk/spearman-rank-correlation-in-excel/).
 
@@ -39,4 +39,5 @@ Spearman's rank correlation coefficient finds application in various academic di
 Watch a demonstration of using this Spearman's Rank Correlation Calculator on [YouTube](https://youtu.be/HbgG2THORa8).
 
 Feel free to contribute to the codebase or suggest improvements!
+
 

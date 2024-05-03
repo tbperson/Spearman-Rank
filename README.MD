@@ -16,13 +16,6 @@ This Python application built with Tkinter enables users to compute Spearman's r
 4. **Calculate Rank**: Click "Calculate Spearman's Rank".
 5. **View Result**: The correlation coefficient and its category will be displayed.
 
-## Spearman's Rank Formula
-
-Spearman's rank correlation coefficient (ρ) is calculated using the following formula:
-
-![Spearman's Rank Formula](https://anyi-guo.medium.com/correlation-pearson-vs-spearman-c15e581c12ce)
-
-For a detailed explanation and examples of Spearman's rank correlation, refer to [this Medium article](https://anyi-guo.medium.com/correlation-pearson-vs-spearman-c15e581c12ce).
 
 ## Subjects Spearman's Rank Correlation Is Used In
 

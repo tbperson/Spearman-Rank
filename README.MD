@@ -2,6 +2,8 @@
 
 This Python application built with Tkinter enables users to compute Spearman's rank correlation coefficient for two datasets. The tool assists in analyzing the strength and direction of monotonic relationships between variables.
 
+![Spearman's Rank Formula](https://www.simplilearn.com/ice9/free_resources_article_thumb/Spearman%E2%80%99s_Rank_Correlation_2.png)
+
 ## Features
 
 - **Dynamic Table Generation**: Users input the number of rows, and a table is dynamically created to input the dataset.

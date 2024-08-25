@@ -31,7 +31,7 @@ Spearman's rank correlation coefficient finds application in various academic di
 
 ## YouTube Demo
 
-Watch a demonstration of using this Spearman's Rank Correlation Calculator on [YouTube](https://youtu.be/HbgG2THORa8).
+Watch a demonstration of using this Spearman's Rank Correlation Calculator on [YouTube](https://youtu.be/HbgG2THORa8)
 
 Feel free to contribute to the codebase or suggest improvements!
 

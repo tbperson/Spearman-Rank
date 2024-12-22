@@ -9,7 +9,7 @@ This Python application built with Tkinter enables users to compute Spearman's r
 - **Dynamic Table Generation**: Users input the number of rows, and a table is dynamically created to input the dataset.
 - **Correlation Calculation**: After data input, users can calculate Spearman's rank correlation.
 - **Result Display**: The application displays the correlation coefficient and its category, indicating the strength and direction of the relationship.
-
+- **Spreadsheet capabilities**: Press a button to save as an Excel spreadsheet, or as a csv by uncommenting lines in the export function
 ## Usage
 
 1. **Run the Script**: Execute the Python script.
@@ -32,7 +32,5 @@ Spearman's rank correlation coefficient finds application in various academic di
 ## YouTube Demo
 
 Watch a demonstration of using this Spearman's Rank Correlation Calculator on [YouTube](https://youtu.be/HbgG2THORa8)
-
-Feel free to contribute to the codebase or suggest improvements!
 
 
